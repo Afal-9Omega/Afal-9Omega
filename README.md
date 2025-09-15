@@ -1,4 +1,5 @@
-# [AFAL] <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXlxYmpsemV6dnpyY3B5ajk1ZjMzNTZnamw1YmN0NGlkOXNvYTJnYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ul9NKXWx2X57jMgQg7/giphy.gif" width="480px" height="270px">
+# [AFAL] 
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGV1dTBtNTNpcjhtOWJzZzdqNnJoazNyeTNoaHJ2YjJ6cHRwbHNpMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Ul9NKXWx2X57jMgQg7/giphy.gif" width= "600px" height="290px" >
 
 Eu sou <strong>Felipe Afal</strong>, <strong>sou aluno do Senac</strong> 👨🏻‍💻 
 
